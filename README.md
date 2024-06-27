@@ -1,8 +1,16 @@
-# React + Vite
+# multstap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao **multstap**! Este é um projeto desenvolvido em React + Vite para estudos.
 
-Currently, two official plugins are available:
+## Descrição
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O **multstap** é um projeto criado para estudos. Este projeto foi desenvolvido com o objetivo de praticar e aprender mais.
+
+## Motivação
+
+Este projeto foi realizado com a ajuda de um curso da Udemy. A inspiração e as habilidades adquiridas durante o curso foram fundamentais para o desenvolvimento do **multstap**.
+
+## Tecnologias Utilizadas
+
+- React
+- Vite
